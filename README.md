@@ -1,21 +1,3 @@
-# vue_todo
+# Vue Todo List
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+Just for fun ... played with different styles to make a very home decor inspired Todo List
